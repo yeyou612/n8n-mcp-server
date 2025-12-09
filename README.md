@@ -378,7 +378,6 @@ If you're excited about the intersection of AI and workflow automation, and you'
 1.  Check out our [GitHub Issues page](https://github.com/leonardsellem/n8n-mcp-server/issues) to find existing tasks, suggest new ideas, or express your interest in becoming a co-maintainer.
 2.  You can open an issue titled "Co-maintainer Application" to formally apply, or simply start contributing to existing issues.
 3.  Alternatively, feel free to reach out to the existing maintainers if you have questions.
-4.  # test
 
 Let’s build the future of AI-powered workflow automation together! 🙌
 
